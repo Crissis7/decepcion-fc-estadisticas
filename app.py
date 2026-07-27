@@ -12,7 +12,7 @@ if 'plantel' not in st.session_state:
         {"nombre": "Nicolas De la Torre", "posicion": "Mediocampista", "goles": 3, "asistencias": 0, "partidos_jugados": 2, "tarjetas_amarillas": 0, "tarjetas_rojas": 0},
         {"nombre": "Bernabe Beltrán", "posicion": "Defensa", "goles": 0, "asistencias": 0, "partidos_jugados": 1, "tarjetas_amarillas": 0, "tarjetas_rojas": 0},
         {"nombre": "Donovan Monares", "posicion": "Defensa", "goles": 0, "asistencias": 0, "partidos_jugados": 1, "tarjetas_amarillas": 0, "tarjetas_rojas": 0},
-        {"nombre": "Arnoldo Segura", "posicion": "Portero", "goles": 0, "asistencias": 0, "partidos_jugados": 2, "tarjetas_amarillas": 0, "tarjetas_rojas": 0},
+        {"nombre": "Arnoldo Segura", "posicion": "Mediocampista", "goles": 0, "asistencias": 0, "partidos_jugados": 2, "tarjetas_amarillas": 0, "tarjetas_rojas": 0},
         {"nombre": "Ángel Díaz", "posicion": "Mediocampista", "goles": 0, "asistencias": 0, "partidos_jugados": 1, "tarjetas_amarillas": 0, "tarjetas_rojas": 0},
         {"nombre": "Eduardo Morales", "posicion": "Defensa", "goles": 0, "asistencias": 0, "partidos_jugados": 1, "tarjetas_amarillas": 0, "tarjetas_rojas": 0},
         {"nombre": "Samuel Dueñas", "posicion": "Delantero", "goles": 4, "asistencias": 1, "partidos_jugados": 2, "tarjetas_amarillas": 0, "tarjetas_rojas": 0},
